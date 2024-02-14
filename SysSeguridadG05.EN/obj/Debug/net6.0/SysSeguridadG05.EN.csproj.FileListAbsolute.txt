@@ -1,0 +1,11 @@
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\bin\Debug\net6.0\SysSeguridadG05.EN.deps.json
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\bin\Debug\net6.0\SysSeguridadG05.EN.dll
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\bin\Debug\net6.0\SysSeguridadG05.EN.pdb
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\SysSeguridadG05.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\SysSeguridadG05.EN.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\SysSeguridadG05.EN.AssemblyInfo.cs
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\SysSeguridadG05.EN.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\SysSeguridadG05.EN.dll
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\refint\SysSeguridadG05.EN.dll
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\SysSeguridadG05.EN.pdb
+C:\Users\david\source\repos\SysSeguridadG05\SysSeguridadG05.EN\obj\Debug\net6.0\ref\SysSeguridadG05.EN.dll
